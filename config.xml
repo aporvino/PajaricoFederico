@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.phonegap.example"
+    id          = "com.leonor.pajarico"
     versionCode = "10"
     version     = "1.0.0" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>PhoneGap Example</name>
+  <name>Pajarico Federico</name>
 
   <description>
-      An example for phonegap build docs.
+     Haz volar al Pajarico Federico sin que se choque con las tuberías
   </description>
 
-  <author href="https://build.phonegap.com" email="support@phonegap.com">
-      Hardeep Shoker
+  <author href="https://www.aporvino.com" email="jorge911@gmail.com">
+      Leonor y Jorge
   </author>
+
+  <icon src="icon.png" />
 
 </widget>
